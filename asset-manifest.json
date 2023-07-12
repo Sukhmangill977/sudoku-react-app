@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sudoku-react-app/static/css/main.63f1442b.css",
+    "main.js": "/sudoku-react-app/static/js/main.937cfd44.js",
+    "static/media/clear-sans.ttf": "/sudoku-react-app/static/media/clear-sans.43ea7d2123718b0cfd2c.ttf",
+    "index.html": "/sudoku-react-app/index.html",
+    "main.63f1442b.css.map": "/sudoku-react-app/static/css/main.63f1442b.css.map",
+    "main.937cfd44.js.map": "/sudoku-react-app/static/js/main.937cfd44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f1442b.css",
+    "static/js/main.937cfd44.js"
+  ]
+}
